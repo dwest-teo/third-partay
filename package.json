@@ -1,6 +1,6 @@
 {
   "name": "third-partay.js",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "A tiny library that loads and manages external third-party JavaScript snippets.",
   "homepage": "https://github.com/dwest-teo/third-partay",
   "main": "dist/third-partay.min.js",

@@ -1,5 +1,5 @@
 # ThirdPartay.js
-
+[![ThirdPartay.js on NPM](https://img.shields.io/npm/v/third-partay.js.svg)](https://www.npmjs.com/package/third-partay.js)
 A tiny library that loads and manages external third-party JavaScript snippets.
 
 ## About

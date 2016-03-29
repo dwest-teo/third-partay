@@ -1,5 +1,6 @@
 # ThirdPartay.js
 [![ThirdPartay.js on NPM](https://img.shields.io/npm/v/third-partay.js.svg)](https://www.npmjs.com/package/third-partay.js)
+
 A tiny library that loads and manages external third-party JavaScript snippets.
 
 ## About
@@ -21,7 +22,7 @@ Import the ThirdPartay module, then instantiate it.  The constructor takes an op
 
 ```es6
 // import ThirdPartay
-import ThirdPartay from 'third-partay'
+import ThirdPartay from 'third-partay.js'
 
 // create an instance
 const Party = new ThirdPartay()

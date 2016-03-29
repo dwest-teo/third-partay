@@ -12,7 +12,7 @@ To use ThirdPartay, you'll need a modern JavaScript workflow and build system wi
 Install ThirdPartay via NPM and add to your dependencies:
 
 ```bash
-$ npm install third-partay --save
+$ npm install third-partay.js --save
 ```
 
 ### Initialize
